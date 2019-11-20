@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "298659612736",
+    "firebase_url": "https://rmaneslasthw.firebaseio.com",
+    "project_id": "rmaneslasthw",
+    "storage_bucket": "rmaneslasthw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298659612736:android:36edeb616eb7bbbe05f7a5",
+        "android_client_info": {
+          "package_name": "com.example.rmaneslasthw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298659612736-b475b6mj8jbdd331klj2jeurjq3s6ijr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0wdBPD_nOpYZd0dZ95_D2wZXTaeTI25c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298659612736-b475b6mj8jbdd331klj2jeurjq3s6ijr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
